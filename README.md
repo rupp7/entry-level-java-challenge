@@ -1,5 +1,12 @@
 # ReliaQuest's Entry-Level Java Challenge
 
+## Requirements
+Java 17 (LTS) recommended
+
+### Build
+./gradlew clean build
+./gradlew bootRun
+
 Please keep the following in mind while working on this challenge:
 * Code implementations will not be graded for **correctness** but rather on practicality
 * Articulate clear and concise design methodologies, if necessary
